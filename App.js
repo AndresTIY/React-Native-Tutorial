@@ -1,23 +1,9 @@
-import React from "react";
-import { StyleSheet, Text, View } from "react-native";
+import React, { Component } from "react";
+import { AppRegistry, Text } from "react-native";
 
-export default class App extends React.Component {
+export default class HelloWorldApp extends Component {
   render() {
-    return (
-      <View style={styles.container}>
-        <Text>Hello World</Text>
-        <Text>Changes you make will automatically reload.</Text>
-        <Text>Shake your phone to open the developer menu.</Text>
-      </View>
-    );
+    return <Text>Hello World!</Text>;
   }
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: "#fff",
-    alignItems: "center",
-    justifyContent: "center"
-  }
-});
+AppRegistry.registerComponent("HelloWorldApp", () => HelloWorldApp);
