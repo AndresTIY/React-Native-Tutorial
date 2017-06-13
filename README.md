@@ -1,3 +1,11 @@
+## User Disclaimer
+
+What you see here is the React Native Tutorial, which can be found [HERE](https://facebook.github.io/react-native/docs/tutorial.html)
+
+As I go through the tutorial, I will constantly delete the previous lessons code. In order to see them, you must go through my commit history.
+
+## React Native Tutorial
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
