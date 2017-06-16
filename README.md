@@ -4,6 +4,8 @@ What you see here is the React Native Tutorial, which can be found [HERE](https:
 
 As I go through the tutorial, I will constantly delete the previous lessons code. In order to see them, you must go through my commit history.
 
+I have also typed up a [blog post](https://medium.com/@aacifuentes/react-native-tutorial-4fb8952100f5) based on my experience running through the tutorial.
+
 ## React Native Tutorial
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
